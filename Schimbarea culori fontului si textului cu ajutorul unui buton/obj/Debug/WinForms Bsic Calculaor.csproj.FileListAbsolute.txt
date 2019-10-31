@@ -1,0 +1,10 @@
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\bin\Debug\WinForms Bsic Calculaor.exe.config
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\bin\Debug\WinForms Bsic Calculaor.exe
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\bin\Debug\WinForms Bsic Calculaor.pdb
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\obj\Debug\WinForms Bsic Calculaor.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\obj\Debug\WinForms_Bsic_Calculaor.Properties.Resources.resources
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\obj\Debug\WinForms Bsic Calculaor.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\obj\Debug\WinForms Bsic Calculaor.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\obj\Debug\WinForms Bsic Calculaor.exe
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\obj\Debug\WinForms Bsic Calculaor.pdb
+C:\Users\alexa\Desktop\C# Testing\WinForms Bsic Calculaor\obj\Debug\WinForms_Bsic_Calculaor.Form1.resources
